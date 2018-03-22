@@ -8,6 +8,6 @@ Nella cartella sms_spam ho implementato uno script per la classificazione di mes
 Sul validation set a disposizione (trovato su kaggle) è stata ottenuta una accuracy dello 0.975530179445.
 
 ### Author Identification
-Per una sfida (trovata su kaggle) ho provato ad implementare uno script per il riconoscimento degli autori di brevi frammenti di testo, fra Edgar Allan Poe, Mary Shelley e H.P. Lovercraft. Lo script prodotto è presente nella cartella spooky-author e fa uso di diverse features e classificatori per ottenere alla fine una accuracy intorno allo 0.6 circa.
+Per una sfida (trovata su kaggle) ho provato ad implementare uno script per il riconoscimento degli autori di brevi frammenti di testo, fra Edgar Allan Poe, Mary Shelley e H.P. Lovercraft. Lo script prodotto è presente nella cartella spooky-author e fa uso di diverse features e classificatori combinati.
 
 ![alt text](logo.png?raw=true "")
